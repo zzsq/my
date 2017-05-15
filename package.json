@@ -1,0 +1,22 @@
+{
+  "name": "my",
+  "version": "1.0.0",
+  "description": "ds",
+  "main": "index.js",
+  "scripts": {
+    "test": "d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzsq/my.git"
+  },
+  "keywords": [
+    "my"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzsq/my/issues"
+  },
+  "homepage": "https://github.com/zzsq/my#readme"
+}
